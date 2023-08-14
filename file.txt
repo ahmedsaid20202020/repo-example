@@ -8,3 +8,6 @@ said add word from machine
 
 =========== 
 said add "hello" from remote server
+
+========= 
+said talking to ahmed khaled
