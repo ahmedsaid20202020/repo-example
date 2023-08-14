@@ -4,4 +4,7 @@ said add word
 said edited this file
 
 =======
-said add word from local
+said add word from machine
+
+=========== 
+said add "hello" from remote server
